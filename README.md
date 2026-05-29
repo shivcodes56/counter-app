@@ -12,3 +12,6 @@ A simple counter app built using HTML, CSS and JavaScript.
 ## Live Demo
 
 https://shivcodes56.github.io/counter-app/
+
+## Source code
+https://github.com/shivcodes56/counter-app
